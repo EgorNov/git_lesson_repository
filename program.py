@@ -1,2 +1,3 @@
 #I'M AUTHOR
-print("Hello, Python")
+print("My first Git program!!!!!!!!!!!!")
+#copyright
